@@ -2,11 +2,11 @@
 
 A computer vision project focusing on traditional image processing techniques for binary classification of dogs and cats using machine learning algorithms. A Project for the CC516 Image Processing & Pattern Recognition Course at AAST.
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements a dogs vs cats binary classifier with emphasis on **image processing and feature extraction** rather than deep learning approaches. The goal was to explore how traditional computer vision techniques combined with classical machine learning algorithms perform on image classification tasks.
 
-## 🔧 Technical Approach
+## Technical Approach
 
 ### Image Processing Pipeline
 1. **Preprocessing**:
@@ -30,7 +30,7 @@ This project implements a dogs vs cats binary classifier with emphasis on **imag
 - **Morphological Operations**: Enhances edge connectivity
 - **Histogram Equalization**: Improves contrast and feature visibility
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: Kaggle Dogs vs Cats Dataset
 - **Structure**: 
@@ -38,7 +38,7 @@ This project implements a dogs vs cats binary classifier with emphasis on **imag
   - Validation set for model tuning
   - Test set for final evaluation
 
-## 🚀 Models & Results
+## Models
 
 ### Decision Tree Classifier
 - Basic tree-based classification on processed image features
@@ -49,7 +49,7 @@ This project implements a dogs vs cats binary classifier with emphasis on **imag
 - Better performance through multiple decision trees
 - Reduces overfitting compared to single decision tree
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages & Libraries:**
 - Python
